@@ -1,0 +1,30 @@
+***Advanced Javascript (All ES Versions)***
+Variable Scoping
+Closure
+Template literals
+Destructuring
+Default parameters
+Rest parameter
+Spread Operator
+Enhanced object literals
+Optional chaining
+CallBack
+Array methods[
+ForEach,
+Map,
+Filter,
+Find,
+Index,
+findIndex,
+some,
+Reduce
+]
+Arrow functions
+Iterators & For..of
+Generators
+Modules
+Higher-order function
+Promises
+Exponentiation Operator
+Classes
+Ternary Operator
